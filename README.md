@@ -9,7 +9,8 @@ For this project, you’ll design the tables to hold the data from the CSV files
 
 #Data Modeling
 Also referenced in file labeled "Employee_ERD"
-[Uploading Table_Schemas.sql…]()
+![Employee_ERD](https://github.com/user-attachments/assets/c799e333-c6e5-434e-9fbf-8f405eb44dbf)
+
 
 #Data Engineering
 Use the provided information to create a table schema for each of the six CSV files. 
